@@ -18,4 +18,18 @@ Projeto da disciplina Engenharia de Software, do curso de graduação em tecnogi
 
 Aplicação Mobile-Desktop Para o Gerenciamento De negócios e serviços inteligentes e Comandas Em Restaurantes.
 
+## Justificativa: 
+
+A elaboração de aplicação foi projetada para solucionar problemas observados nos mais diversos empreendimentos de gastronomia. Em se tratando disso, podemos citar: 
+
+-> Atraso no Atendimento DE Mesas (FILA);
+
+-> Ausência de Plataformas Digitais que incentivem a ida á restaurantes locais
+
+-> Ferramentas Rudimentares para o Atendimento ao Cliente.
+
+-> Ausência do uso de Ferramentas de business inteligence em estabelecimentos.
+
+-> Ausência de registro de Pedidos e Dados relacionados.
+
 Equipe do Sistema FoodS &amp; BIS
